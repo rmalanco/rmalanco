@@ -8,11 +8,11 @@
 
 ###
 
-<p align="left">Soy un desarrollador con más de 7 años de experiencia en el desarrollo de soluciones tecnológicas para entornos empresariales. Me especializo en tecnologías Microsoft como .NET Framework, VB.NET, WinForms y SQL Server, con un enfoque constante en mejorar procesos, optimizar el rendimiento de aplicaciones y mantener una arquitectura limpia y escalable.<br><br>Me considero autodidacta, proactivo y orientado a resultados. Siempre estoy en búsqueda de nuevos conocimientos, explorando herramientas modernas como .NET Core, fortaleciendo mis bases en prácticas de DevOps y reforzando mis habilidades en inglés para estar preparado para entornos globales. Me gusta crear software funcional que aporte valor real, con especial atención a la calidad del código, la experiencia del usuario y la mantenibilidad a largo plazo.</p>
+<img align="left" height="200" src="https://avatars.githubusercontent.com/u/101444985?v=4"  />
 
 ###
 
-<img align="left" height="200" src="https://avatars.githubusercontent.com/u/101444985?v=4"  />
+<p align="left">Soy un desarrollador con más de 7 años de experiencia en el desarrollo de soluciones tecnológicas para entornos empresariales. Me especializo en tecnologías Microsoft como .NET Framework, VB.NET, WinForms y SQL Server, con un enfoque constante en mejorar procesos, optimizar el rendimiento de aplicaciones y mantener una arquitectura limpia y escalable.<br><br>Me considero autodidacta, proactivo y orientado a resultados. Siempre estoy en búsqueda de nuevos conocimientos, explorando herramientas modernas como .NET Core, fortaleciendo mis bases en prácticas de DevOps y reforzando mis habilidades en inglés para estar preparado para entornos globales. Me gusta crear software funcional que aporte valor real, con especial atención a la calidad del código, la experiencia del usuario y la mantenibilidad a largo plazo.</p>
 
 ###
 
@@ -125,7 +125,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rmalanco/rmalanco/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rmalanco/rmalanco/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rmalanco/rmalanco/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rmalanco/rmalanco/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
