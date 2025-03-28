@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Soy un desarrollador con más de 7 años de experiencia en el desarrollo de soluciones tecnológicas para entornos empresariales. Me especializo en tecnologías Microsoft como .NET Framework, VB.NET, WinForms y SQL Server, con un enfoque constante en mejorar procesos, optimizar el rendimiento de aplicaciones y mantener una arquitectura limpia y escalable.<br><br>Me considero autodidacta, proactivo y orientado a resultados. Siempre estoy en búsqueda de nuevos conocimientos, explorando herramientas modernas como .NET Core, fortaleciendo mis bases en prácticas de DevOps y reforzando mis habilidades en inglés para estar preparado para entornos globales. Me gusta crear software funcional que aporte valor real, con especial atención a la calidad del código, la experiencia del usuario y la mantenibilidad a largo plazo.</p>
+<p align="left">Hola, soy Rafael Malanco. Tengo más de 20 años de experiencia en el mundo de la informática, combinando soporte técnico, administración de sistemas y desarrollo de software. Me gusta resolver problemas reales con soluciones prácticas y fáciles de usar.<br><br>Soy apasionado de la tecnología, autodidacta y siempre en busca de aprender algo nuevo. Disfruto desde configurar servidores y redes, hasta crear aplicaciones que ayuden a mejorar procesos dentro de una oficina o empresa.<br><br>Trabajo con tecnologías como VB.NET, C#, SQL Server, HTML, PHP y MySQL, y me enfoco en construir sistemas sólidos que realmente hagan la diferencia para los usuarios.</p>
 
 ###
 
